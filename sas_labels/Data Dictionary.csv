@@ -1,0 +1,33 @@
+,Code,Description
+0,ADMNUM,Admission Number
+1,AIRLINE,Airline used to arrive in U.S.
+2,ARRDATE,Arrival Date in the USA. It is a SAS date numeric field that a permament format has not been applied. Please apply whichever date format works for you
+3,BIRYEAR,4 digit year of birth
+4,COUNT,Used for summary statistics
+5,DEPDATE,"Departure Date from the USA. It is a SAS date numeric field that 
+   a permament format has not been applied.  Please apply whichever date format 
+   works for you."
+6,DTADDTO,Character Date Field
+7,DTADFILE,Character Date Field
+8,ENTDEPA,Arrival Flag
+9,ENTDEPD,Departure Flag
+10,ENTDEPU,Update Flag
+11,FLTNO,Flight number of Airline used to arrive in U.S.
+12,GENDER,Non-immigrant sex
+13,I94ADDR,"There is lots of invalid codes in this variable and the list below 
+   shows what we have found to be valid, everything else goes into 'other'"
+14,I94BIR,Age of Respondent in Years
+15,I94CIT & I94RES,This format shows all the valid and invalid codes for processing
+16,I94MODE,There are missing values as well as not reported (9)
+17,I94MON,Numeric month
+18,I94PORT,This format shows all the valid and invalid codes for processing
+19,I94VISA,"Visa codes collapsed into three categories:
+   1 = Business
+   2 = Pleasure
+   3 = Student"
+20,I94YR,4 digit year
+21,INSNUM,INS number
+22,MATFLAG,Match flag
+23,OCCUP,Occupation that will be performed in U.S.
+24,VISAPOST,Department of State where where Visa was issued
+25,VISATYPE,Class of admission legally admitting the non-immigrant to temporarily stay in U.S.
